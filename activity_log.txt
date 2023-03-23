@@ -105,3 +105,5 @@ Activity on 2023-03-21 00:00:00 - docs: Create architectural overview
 Activity on 2023-03-22 00:00:00 - build: Update compiler flags
 Activity on 2023-03-22 00:00:00 - refactor: Simplify conditional statements
 Activity on 2023-03-22 00:00:00 - chore: Update dependencies in requirements.txt
+Activity on 2023-03-23 00:00:00 - docs: Update README with installation instructions
+Activity on 2023-03-23 00:00:00 - refactor: Improve code readability and structure
