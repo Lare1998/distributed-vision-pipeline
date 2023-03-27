@@ -107,3 +107,5 @@ Activity on 2023-03-22 00:00:00 - refactor: Simplify conditional statements
 Activity on 2023-03-22 00:00:00 - chore: Update dependencies in requirements.txt
 Activity on 2023-03-23 00:00:00 - docs: Update README with installation instructions
 Activity on 2023-03-23 00:00:00 - refactor: Improve code readability and structure
+Activity on 2023-03-27 00:00:00 - docs: Add contribution guidelines
+Activity on 2023-03-27 00:00:00 - style: Use f-strings for formatting
