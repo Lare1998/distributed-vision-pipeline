@@ -135,3 +135,5 @@ Activity on 2023-04-14 00:00:00 - refactor: Use dependency injection
 Activity on 2023-04-17 00:00:00 - build: Automate deployment to production
 Activity on 2023-04-17 00:00:00 - build: Set up pre-commit hooks
 Activity on 2023-04-18 00:00:00 - feat: Add real-time notifications
+Activity on 2023-04-20 00:00:00 - docs: Generate Sphinx documentation
+Activity on 2023-04-20 00:00:00 - docs: Add troubleshooting guide
