@@ -3043,3 +3043,5 @@ Activity on 2023-06-01 00:00:00 - ci: Add code coverage reporting
 Activity on 2023-06-01 00:00:00 - style: Use type hints
 Activity on 2023-06-05 00:00:00 - chore: Update CI/CD runners
 Activity on 2023-06-06 00:00:00 - feat: Add internationalization support
+Activity on 2023-06-07 00:00:00 - docs: Create quick start guide
+Activity on 2023-06-07 00:00:00 - docs: Add troubleshooting guide
