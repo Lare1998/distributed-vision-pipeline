@@ -3763,3 +3763,5 @@ Commit 271 on 2023-06-09 00:00:00 - docs: Add usage examples
 Commit 272 on 2023-06-09 00:00:00 - perf: Optimize image loading
 Commit 273 on 2023-06-13 00:00:00 - chore: Upgrade Python version
 Commit 274 on 2023-06-13 00:00:00 - style: Standardize error messages
+Commit 275 on 2023-06-15 00:00:00 - test: Add integration tests for API endpoints
+Commit 276 on 2023-06-15 00:00:00 - ci: Add linting to pre-commit hooks
