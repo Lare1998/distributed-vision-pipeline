@@ -233,3 +233,5 @@ Activity on 2023-06-28 00:00:00 - ci: Add linting to pre-commit hooks
 Activity on 2023-06-30 00:00:00 - docs: Improve inline comments
 Activity on 2023-06-30 00:00:00 - feat: Introduce dark mode theme
 Activity on 2023-06-30 00:00:00 - refactor: Use context managers
+Activity on 2023-07-04 00:00:00 - style: Use type hints
+Activity on 2023-07-04 00:00:00 - ci: Add vulnerability scanning
