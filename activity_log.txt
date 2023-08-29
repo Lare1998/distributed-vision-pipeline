@@ -1715,3 +1715,5 @@ Activity on 2023-08-25 00:00:00 - chore: Automate release process
 Activity on 2023-08-28 00:00:00 - ci: Add performance benchmarks
 Activity on 2023-08-28 00:00:00 - chore: Update copyright year
 Activity on 2023-08-28 00:00:00 - refactor: Use design patterns
+Activity on 2023-08-29 00:00:00 - refactor: Use dependency injection
+Activity on 2023-08-29 00:00:00 - build: Set up pre-commit hooks
