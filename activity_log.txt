@@ -1904,3 +1904,4 @@ Activity on 2024-01-22 00:00:00 - perf: Optimize image loading
 Activity on 2024-01-23 00:00:00 - chore: Clean up unused files and resources
 Activity on 2024-01-23 00:00:00 - feat: Introduce dark mode theme
 Activity on 2024-01-23 00:00:00 - refactor: Use dependency injection
+Activity on 2024-01-25 00:00:00 - docs: Update README with installation instructions
