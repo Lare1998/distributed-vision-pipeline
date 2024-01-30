@@ -3355,3 +3355,5 @@ Activity on 2024-01-26 00:00:00 - feat: Introduce dark mode theme
 Activity on 2024-01-29 00:00:00 - refactor: Use dependency injection
 Activity on 2024-01-29 00:00:00 - style: Consistent variable naming
 Activity on 2024-01-29 00:00:00 - docs: Create quick start guide
+Activity on 2024-01-30 00:00:00 - docs: Create architectural overview
+Activity on 2024-01-30 00:00:00 - fix: Address memory leaks
