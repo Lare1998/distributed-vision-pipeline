@@ -514,3 +514,4 @@ Activity on 2024-02-19 00:00:00 - perf: Reduce bundle size
 Activity on 2024-02-19 00:00:00 - docs: Create quick start guide
 Activity on 2024-02-20 00:00:00 - ci: Add performance benchmarks
 Activity on 2024-02-20 00:00:00 - test: Test error handling paths
+Activity on 2024-02-23 00:00:00 - ci: Add linting to pre-commit hooks
