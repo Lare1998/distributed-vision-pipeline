@@ -3591,3 +3591,5 @@ Activity on 2024-07-23 00:00:00 - fix: Correct off-by-one errors
 Activity on 2024-07-23 00:00:00 - style: Enforce maximum line length
 Activity on 2024-07-24 00:00:00 - test: Write property-based tests
 Activity on 2024-07-24 00:00:00 - refactor: Use design patterns
+Activity on 2024-07-25 00:00:00 - docs: Create architectural overview
+Activity on 2024-07-25 00:00:00 - test: Parameterize test cases
