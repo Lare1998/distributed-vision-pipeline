@@ -741,3 +741,5 @@ Activity on 2024-09-04 00:00:00 - feat: Implement user profile management
 Activity on 2024-09-05 00:00:00 - test: Write property-based tests
 Activity on 2024-09-06 00:00:00 - style: Use type hints
 Activity on 2024-09-06 00:00:00 - chore: Update dependencies in requirements.txt
+Activity on 2024-09-09 00:00:00 - build: Fix Dockerfile issues
+Activity on 2024-09-09 00:00:00 - ci: Integrate with SonarQube
