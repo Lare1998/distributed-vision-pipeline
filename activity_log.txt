@@ -2224,3 +2224,5 @@ Activity on 2024-10-15 00:00:00 - perf: Optimize network communication
 Activity on 2024-10-15 00:00:00 - ci: Add linting to pre-commit hooks
 Activity on 2024-10-15 00:00:00 - style: Format code according to PEP8 guidelines
 Activity on 2024-10-16 00:00:00 - chore: Update license information
+Activity on 2024-10-17 00:00:00 - test: Add end-to-end tests
+Activity on 2024-10-17 00:00:00 - fix: Handle null pointer exceptions
