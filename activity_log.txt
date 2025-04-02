@@ -1000,3 +1000,4 @@ Activity on 2025-03-31 00:00:00 - docs: Create architectural overview
 Activity on 2025-03-31 00:00:00 - perf: Optimize query performance
 Activity on 2025-04-01 00:00:00 - perf: Reduce memory footprint of data structures
 Activity on 2025-04-01 00:00:00 - chore: Update dependencies in requirements.txt
+Activity on 2025-04-02 00:00:00 - fix: Correct off-by-one errors
